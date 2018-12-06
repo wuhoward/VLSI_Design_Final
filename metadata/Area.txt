@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : SAO
+Version: K-2015.06-SP1
+Date   : Thu Jan 12 01:59:24 2017
+****************************************
+
+Library(s) Used:
+
+    slow (File: /theda21_2/CBDK_IC_Contest/cur/SynopsysDC/db/slow.db)
+    sram_16384x8 (File: /users/student/mr105/wuhoward/IClab/final/sram_16384x8_slow_syn.db)
+
+Number of ports:                           45
+Number of nets:                         13207
+Number of cells:                        12022
+Number of combinational cells:          10442
+Number of sequential cells:              1579
+Number of macros/black boxes:               1
+Number of buf/inv:                       1482
+Number of references:                     164
+
+Combinational area:             119301.758674
+Buf/Inv area:                    14451.663653
+Noncombinational area:           51108.712418
+Macro/Black Box area:           438436.062500
+Net Interconnect area:         1432394.027039
+
+Total cell area:                608846.533591
+Total area:                    2041240.560630
+1
